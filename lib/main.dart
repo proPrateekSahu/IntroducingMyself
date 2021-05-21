@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
                 radius: 100,
               ),
               Text(
-                'Prateek Sahu',
+                'Pragya Sahu',
                 style: TextStyle(
                     fontSize: 25,
                     color: Colors.teal.shade900,
@@ -72,7 +72,7 @@ class MyApp extends StatelessWidget {
                     ListTile(
                       leading: Icon(Icons.audiotrack),
                       title: Text(
-                        'Editor in GSPH',
+                        'Head of ArtClub JEC',
                         style: TextStyle(
                           fontSize: 20,
                           color: Colors.teal.shade500,
